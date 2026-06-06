@@ -1,0 +1,12 @@
+total 32
+-rw-r--r--@ 1 I578366  staff    29 Mar 20 22:07 date.txt
+-rw-r--r--@ 1 I578366  staff     0 Mar 20 22:07 files.txt
+-rwxr-xr-x@ 1 I578366  staff  1009 Mar 20 22:07 setup.sh
+-rw-r--r--@ 1 I578366  staff    24 Mar 20 22:07 test.txt
+-rw-r--r--@ 1 I578366  staff    11 Mar 20 22:07 test.txt.
+total 40
+-rw-r--r--@ 1 I578366  staff    29 Mar 20 22:11 date.txt
+-rw-r--r--@ 1 I578366  staff   296 Mar 20 22:07 files.txt
+-rwxr-xr-x@ 1 I578366  staff  1500 Mar 20 22:11 setup.sh
+-rw-r--r--@ 1 I578366  staff    24 Mar 20 22:11 test.txt
+-rw-r--r--@ 1 I578366  staff    11 Mar 20 22:11 test.txt.

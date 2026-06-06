@@ -1,0 +1,4 @@
+Hello
+This is a file containing multiple lines.
+which is created using a shell script.
+hope you understand how to write multiple lines to a file using a shell script.

@@ -1,0 +1,3 @@
+echo "Hello"
+date
+pwd
